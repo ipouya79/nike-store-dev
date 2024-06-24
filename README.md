@@ -1,2 +1,3 @@
 # nike-store-dev
-Modern Nike Store ECommerce ReactJs | Tailwind Css | Redux Toolkit
+Modern Nike Store E-commerce with ReactJs, Tailwind Css, Redux Toolkit
+
